@@ -8,59 +8,84 @@
 **Quick links:** [RU](#ru) · [EN](#en) · [Featured projects](#featured-projects)
 
 ---
-
 ## RU
 
-Привет, я Назар
+Привет, я Назар.
 
-Head of QA, SDET с 6,5 годами в QA, из них 3,5 года — в управлении командами до 56 человек. Умею выстраивать процессы качества с нуля, масштабировать их и добиваться измеримых бизнес-результатов.
+**Head of QA / SDET** - 6,5 лет в QA, из них 3,5 года - управление командами до 56 человек.  
+Выстраиваю качество как систему: процессы, автоматизация, метрики, предсказуемые релизы и измеримые бизнес-результаты.
 
-Руководил QA в высоконагруженных B2B, B2C, G2C продуктах, работал в стартапах, на крупных fintech проектах и в гос-секторе. Управлял кросс-функциональными командами QA, SDET и TestOps, совмещая hands-on подход с управлением стратегией качества.
+**Доменный опыт:** высоконагруженные B2B / B2C / G2C продукты (стартапы, fintech, гос-сектор).  
+**Роли:** управление кросс-функциональными командами QA / SDET / TestOps + hands-on.
 
-Мои достижения:
-✅ Внедрил стратегию QA и автоматизацию, снизив утечки багов на 35%, MTTR с 24 часов до 6, ускорив релизы на 40%.
-✅ Курировал нагрузочное и стресс-тестирование (Tank, k6), достигнув 86k RPS на одну API с p95 = 0.056.
-✅ Централизовал 56 специалистов в единый отдел, создав центр экспертизы и повысив ROI на 20% за счёт устранения простоев и стандартизации процессов.
-✅ Разработал фреймворк авто-тестирования на Kotlin, сократив ручное регрессионное тестирование на 50% и интегрировав в CI/CD, что сэкономило 21% бюджета на тестирование. Это позволило внедрить баг-контейнер и открыть ещё одну вакансию QA-инженера.
+### Ключевые результаты (цифрами)
+- Defect leakage: **-35%**
+- MTTR: **24h -> 6h**
+- Скорость релизов: **+40%**
+- Performance: **86k RPS** на одну API, **p95 = 0.056**
+- ROI: **+20%** за счет стандартизации и устранения простоев
+- Автотесты: **-50%** ручного регресса, экономия **-21%** бюджета на тестирование
 
-Трансформации:
-✦ Руководил мультидисциплинарными командами до 56 человек, формируя культуру ответственности и постоянного улучшения, снизив текучесть на 16%.
-✦ Инициировал digital-трансформации QA-процессов (shift-left, автоматизация в CI/CD, центр экспертизы), сократив циклы разработки на 30–40% и повысив качество релизов.
-✦ Формировал roadmaps качества, вел переговоры со стейкхолдерами и оптимизировал баг-фиксы, достигая ROI до 25%.
-✦ Масштабировал QA-подходы в крупных проектах, минимизируя сопротивление изменениям через прозрачное планирование и вовлечение команд.
+### Что делал
+- Внедрил QA-стратегию и автоматизацию, улучшив метрики качества и time-to-release.
+- Курировал нагрузочное и стресс-тестирование (Tank, k6), выстроил performance-контур.
+- Централизовал 56 специалистов в единый отдел, создал центр экспертизы.
+- Разработал Kotlin фреймворк авто-тестирования и интегрировал в CI/CD (в т.ч. баг-контейнер, открытие доп. позиции QA).
 
-Чем полезен:
-✦ Создание QA-процессов и автоматизации с нуля
-✦ Управление командами и трансформация культуры качества
-✦ Разработка и масштабирование фреймворков авто-тестирования
-✦ Оптимизация релизных циклов и сокращение затрат
-✦ Проведение нагрузочного и стресс-тестирования
+### Трансформации
+- Лидировал мультидисциплинарные команды до 56 человек, снизил текучесть на **16%**.
+- Запустил digital-трансформации QA (shift-left, CI/CD automation, CoE), сократил cycle time на **30-40%**.
+- Формировал roadmaps качества, вел переговоры со стейкхолдерами, оптимизировал баг-фиксы (ROI до **25%**).
+- Масштабировал QA-подходы в крупных программах, снижая сопротивление через прозрачное планирование и вовлечение команд.
 
-Ищу:
-Долгосрочное сотрудничество, в рамках которого смогу не только обеспечивать высокое качество продукта, но и влиять на стратегию, выстраивать эффективные команды и развивать культуру качества.
+### Чем полезен
+- QA-процессы и автоматизация с нуля
+- Управление командами и трансформация культуры качества
+- Фреймворки авто-тестирования (разработка и масштабирование)
+- Оптимизация релизных циклов и сокращение затрат
+- Нагрузочное и стресс-тестирование
+
+### Ищу
+Долгосрочное сотрудничество, где могу отвечать за качество end-to-end, влиять на стратегию, выстраивать команды и развивать культуру качества.
 
 ---
 
 ## EN
 
-Head of QA / SDET with **6.5 years in QA**, including **3.5 years leading teams** (up to **56 engineers**). I help products ship stable releases by building quality processes from scratch, scaling them, and validating improvements with clear metrics.
+Hi, I’m Nazar.
 
-I’ve worked across high-load **B2B / B2C / G2C** products - from startups to large fintech and public-sector projects. I led cross-functional **QA / SDET / TestOps** teams, combining a hands-on engineering approach with quality strategy ownership.
+**Head of QA / SDET** - 6.5 years in QA, including 3.5 years leading teams of up to 56 people.  
+I build quality as a system: processes, automation, metrics, predictable releases, and measurable business outcomes.
 
-### What I bring
-- **QA strategy** and end-to-end quality processes (shift-left, quality gates, measurable outcomes).
-- **Test automation** and CI/CD integration.
-- **Performance & stress testing** (k6 / Yandex.Tank) and performance pipelines.
-- Scaling teams and building a **Quality Center of Excellence**.
+**Domain:** high-load B2B / B2C / G2C products (startups, fintech, public sector).  
+**Scope:** leading cross-functional QA / SDET / TestOps teams + hands-on delivery.
 
-### Impact & metrics
-- Defect leakage: **-35%**, **MTTR 24h -> 6h**, release speed: **+40%**.
-- Performance: **86k RPS** on a single API with **p95 = 0.056**.
-- Consolidated **56 engineers** into a unified QA organization -> CoE -> **ROI +20%** via standardization and reduced downtime.
-- Built a **Kotlin** automation framework -> **-50%** manual regression -> **-21%** testing budget (CI/CD integration).
+### Key results (numbers)
+- Defect leakage: **-35%**
+- MTTR: **24h -> 6h**
+- Release speed: **+40%**
+- Performance: **86k RPS** for a single API, **p95 = 0.056**
+- ROI: **+20%** via standardization and reduced downtime
+- Automation: **-50%** manual regression, **-21%** testing budget
 
----
+### What I delivered
+- Implemented QA strategy and automation, improving quality and time-to-release metrics.
+- Led load and stress testing (Yandex.Tank, k6) and built a performance pipeline.
+- Consolidated 56 specialists into one organization and built a Quality Center of Excellence.
+- Built a Kotlin test automation framework integrated into CI/CD (including a bug-container approach and enabling an additional QA role).
 
-## Featured projects
-- **Go SIPp API Service** - REST API for running SIPp scenarios as isolated processes.
-- **Java SIPp API Service** - Spring Boot service for SIP call emulation using SIPp.
+### Transformations
+- Led multidisciplinary teams up to 56 people and reduced attrition by **16%**.
+- Initiated QA digital transformations (shift-left, CI/CD automation, CoE), reducing cycle time by **30-40%**.
+- Built quality roadmaps, aligned with stakeholders, and optimized bug-fix flow (ROI up to **25%**).
+- Scaled QA practices in large programs, minimizing resistance through transparent planning and team engagement.
+
+### How I can help
+- Building QA processes and automation from scratch
+- Leading teams and transforming quality culture
+- Designing and scaling test automation frameworks
+- Optimizing release cycles and reducing costs
+- Load and stress testing
+
+### Looking for
+Long-term collaboration where I can own quality end-to-end, influence strategy, build effective teams, and strengthen quality culture.
