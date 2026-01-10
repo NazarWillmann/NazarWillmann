@@ -1,4 +1,4 @@
-![banner](assets/banner.png)
+![banner](./assets/banner.png)
 
 # Назар · Nazar
 **Head of QA / SDET · Quality Strategy · Test Automation · TestOps**
