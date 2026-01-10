@@ -1,11 +1,14 @@
-![banner](./assets/banner.png)
+<p align="center">
+  <img src="./assets/banner.png" alt="banner" width="100%">
+</p>
 
 # Назар · Nazar
-**Head of QA / SDET · Quality Strategy · Test Automation · TestOps**
 
-[Telegram](https://t.me/Headvice)
+**Head of QA / SDET** · Quality Strategy · Test Automation · TestOps  
+[Telegram](https://t.me/Headvice) · [Channel](https://t.me/Headvice_channel)
 
-**Quick links:** [RU](#ru) · [EN](#en) · [Featured projects](#featured-projects)
+Quick links: [RU](#ru) · [EN](#en) · [Featured projects](#featured-projects)
+
 
 ---
 ## RU
@@ -89,3 +92,9 @@ I build quality as a system: processes, automation, metrics, predictable release
 
 ### Looking for
 Long-term collaboration where I can own quality end-to-end, influence strategy, build effective teams, and strengthen quality culture.
+
+
+## Featured projects
+- [go-sipp-api-service](https://github.com/NazarWillmann/go-sipp-api-service) - REST API for running SIPp scenarios as isolated processes.
+- [java_sipp_api_service](https://github.com/NazarWillmann/java_sipp_api_service) - Spring Boot HTTP API for SIP call emulation using SIPp.
+
