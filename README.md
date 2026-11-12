@@ -57,7 +57,7 @@ Quick links: [RU](#ru) · [EN](#en) · [Featured projects](#featured-projects)
 
 Hi, I’m Nazar.
 
-**Head of QA / SDET** - 6.5 years in QA, including 3.5 years leading teams of up to 56 people.  
+**Head of QA / SDET** — Around 8 years of experience in QA, including 3.5 years managing teams of up to 56 people. Currently back in an individual contributor (IC) role as an SDET.  
 I build quality as a system: processes, automation, metrics, predictable releases, and measurable business outcomes.
 
 **Domain:** high-load B2B / B2C / G2C products (startups, fintech, public sector).  
